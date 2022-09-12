@@ -1,0 +1,38 @@
+body {
+  font-family: "serif";
+}
+
+.baner {
+  height: 600px;
+  background: linear-gradient(rgba(0, 68, 255, 0.75), rgba(0, 68, 255, 0.75)),
+    url("../background.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.isi-baner {
+  height: 100%;
+}
+
+.btn-daftar {
+  background-color: rgb(18, 18, 94);
+}
+
+.btn-daftar:hover {
+  background-color: rgb(34, 34, 130);
+}
+
+.kartu {
+  margin-left: 75px;
+  margin-right: 10px;
+}
+
+.tivi {
+  margin-top: 5px;
+  font-size: 55px;
+  color: rgb(130, 174, 255);
+}
+
+.card-text {
+  text-align: justify;
+}
